@@ -1,4 +1,7 @@
 Soroban Performance Benchmarks
+
+
+
 A comprehensive performance tracking tool for Soroban smart contracts built with React and Recharts.
 📋 Table of Contents
 
@@ -172,4 +175,5 @@ For issues or questions, please open an issue in the repository or contact the d
 Built with ❤️ for the Soroban developer community
 
 <img width="1920" height="1140" alt="Screenshot 2025-11-13 160929" src="https://github.com/user-attachments/assets/4bf1a1b2-9a96-4f80-a725-175d4d18e7eb" />
+
 
